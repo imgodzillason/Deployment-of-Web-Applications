@@ -2,7 +2,7 @@
 
 ### This deployment plan outlines the process of putting my site onto the live server using Git
 
-### * The assumption for this plan is its use with a single HTML page. For more complex sites, the recommendation is to use additional branches in order to merge as needed. *
+### *The assumption for this plan is its use with a single HTML page. For more complex sites, the recommendation is to use additional branches in order to merge as needed.*
 
 ### 1. Save changes to local repository
 
