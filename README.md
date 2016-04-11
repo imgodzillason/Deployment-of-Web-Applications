@@ -19,3 +19,5 @@ This deployment plan outlines the process of putting my site onto the live serve
     * For any errors, return to **step 1** and fix errors before following the steps again
 
 5. After testing has completed and code functions correctly, **push** changes to **Production**
+
+6. Communicate updates and version of updated code
