@@ -7,5 +7,7 @@ This deployment plan outlines the process of putting my site onto the live serve
 1. Save changes to local repository
 
 2. Commit changes to Git repository
-    * **git commit -a to commit all files**
-    * **git commit -m "Commit message here" to commit the staged snapshot**
+    * **git commit -a** to commit all files.
+        * **This will save all changes in the directory.**
+    * **git commit -m "Commit message here"** to commit the staged snapshot and add commit message.
+    * Use **git add** to select specific files to push
