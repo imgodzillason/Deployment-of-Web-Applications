@@ -14,10 +14,10 @@ This deployment plan outlines the process of putting my site onto the live serve
 
 3. **Push** changes to the  **Staging Server**
 
-4. **Test** the site
+4. **Test** the site via the **Staging Server**
     * This ensures the site runs as it did on the local repository. 
     * For any errors, return to **step 1** and fix errors before following the steps again
 
 5. After testing has completed and code functions correctly, **push** changes to **Production**
 
-6. Communicate updates and version of updated code
+6. **Communicate** updates and version of updated code
