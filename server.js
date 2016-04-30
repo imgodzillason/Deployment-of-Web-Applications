@@ -24,7 +24,7 @@ var router = function(req, res) {
 		case '/api/v1':
 			// Send serverData to the client
 			res.writeHead(200, pageContent);
-			var output = '{"Hello":"World"}';
+			var output = '{"Hello":"Worlds"}';
 			res.end(JSON.stringify(output));
 			break;
 		default:
